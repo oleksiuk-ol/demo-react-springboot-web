@@ -24,6 +24,11 @@
   color: white;
 }
 
+.todo-table {
+  font-size :25px;
+}
+
+
 .App-link {
   color: #61dafb;
 }
